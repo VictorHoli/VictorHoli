@@ -11,7 +11,7 @@
   <img width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
   <img width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" /> <br><br>
+  <img width="4.29%" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" /> <br><br>
   
 </div>
 
